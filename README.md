@@ -1,1 +1,3 @@
 # RainWolfMusicBot
+
+Language js
